@@ -61,11 +61,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![add expt1](https://github.com/user-attachments/assets/84ea0de4-22a9-49c6-aff8-195a4d19d6dd)
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="916" height="593" alt="Screenshot 2025-09-14 175635" src="https://github.com/user-attachments/assets/ee533120-4050-4d87-8e57-b634b304935c" />
 
 ## 2. SUBTRACTION
 
@@ -112,12 +115,16 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![sub expt1](https://github.com/user-attachments/assets/a94c8238-f8f4-4d78-8e1e-ed9eb33f60b6)
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+
+<img width="913" height="568" alt="Screenshot 2025-09-14 180909" src="https://github.com/user-attachments/assets/ca69b58d-f24a-4fa4-bf9c-d62735f6effa" />
 
 ## 3. MULTIPLICATION
 
@@ -161,11 +168,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![multiplication expt 1](https://github.com/user-attachments/assets/132fa634-0607-4471-a1c7-487fa919076d)
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="904" height="566" alt="Screenshot 2025-09-14 183300" src="https://github.com/user-attachments/assets/ba532115-92a6-47d6-b064-c959d2002b31" />
 
 ## 4. DIVISION
 
@@ -206,13 +215,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![division expt 1](https://github.com/user-attachments/assets/0ebd7bf1-680d-4f98-aacf-13058fde41f3)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-
-
+<img width="916" height="561" alt="Screenshot 2025-09-14 183450" src="https://github.com/user-attachments/assets/a3c592ae-be5b-4ab7-97f6-abe12a0bbcba" />
 ## RESULT
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
